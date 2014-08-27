@@ -1,4 +1,4 @@
 example_bins
 ============
 
-test
+First example code for refactoring
